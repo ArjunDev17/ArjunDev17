@@ -1,5 +1,5 @@
-<h1 align="center">I AM Arjun Singh</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<h1><strong>I'M Arjun Singh</strong></h1>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arjunsingh757&label=Profile%20views&color=0e75b6&style=flat" alt="arjunsingh757" /> </p>
 
