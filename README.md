@@ -4,19 +4,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arjunsingh757&label=Profile%20views&color=0e75b6&style=flat" alt="arjunsingh757" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 🔭 I’m currently working on **API's in diff-diff technology**
-
 - 🌱 I’m currently learning **SpringBoot,AdonisJs**
-
 - 👯 I’m looking to collaborate on **Go,Java and NoSQL**
-
 - 🤝 I’m looking for help with **in API development**
-
 - 💬 Ask me about **GO,Java,APIs**
-
 - 📫 How to reach me **arjun.devb25@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/arjun-singh-7173a3195" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arjun-singh-7173a3195/" height="30" width="40" /></a>
