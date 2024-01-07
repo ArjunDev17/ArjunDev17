@@ -93,6 +93,6 @@
   
 </p>
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arjunsingh757&show_icons=true&locale=en&layout=compact" alt="arjunsingh757" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arjundev17&show_icons=true&locale=en&layout=compact" alt="arjunsingh" />
 </p>
 
