@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **API's in diff-diff technology**
   
-- 🌱 I’m currently learning **SpringBoot,AdonisJs**
+- 🌱 I’m currently learning **SpringBoot**
   
 - 👯 I’m looking to collaborate on **Go,Java and NoSQL**
   
