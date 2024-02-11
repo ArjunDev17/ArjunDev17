@@ -13,7 +13,7 @@
   
 - 🤝 I’m looking for help with **in API development**
   
-- 💬 Ask me about **GO,Java,APIs**
+- 💬 Ask me about **GO,Java,NodeJs and APIs**
   
 - 📫 How to reach me **arjun.devb25@gmail.com**
   
