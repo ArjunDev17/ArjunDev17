@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on **API's in diff-diff technology**
   
-- 🌱 I’m currently learning **SpringBoot**
+- 🌱 I’m currently learning **SpringBoot,FastAPI**
   
 - 👯 I’m looking to collaborate on **Go,Java and NoSQL**
   
 - 🤝 I’m looking for help with **in API development**
   
-- 💬 Ask me about **GO,Java,NodeJs and APIs**
+- 💬 Ask me about **Java, GO, NodeJs, Python, and APIs**
   
 - 📫 How to reach me **arjun.devb25@gmail.com**
   
@@ -40,6 +40,11 @@
  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   </a>
+
+ <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+        <img src="https://www.python.org/static/img/python-logo.png" alt="Python" width="40" height="40"/>
+    </a>
+  
  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
   </a>
