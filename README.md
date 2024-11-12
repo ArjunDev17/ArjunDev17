@@ -4,15 +4,10 @@
   <img src="https://komarev.com/ghpvc/?username=arjunsingh757&label=Profile%20views&color=0e75b6&style=flat" alt="arjunsingh757" />
 </p>
 
-<p align="left">
-  <a href="https://twitter.com/" target="_blank"><img src="https://img.shields.io/twitter/follow/arjunsingh757?logo=twitter&style=for-the-badge" alt="Twitter Follow" /></a>
-</p>
-
 - 🔭 I’m currently working on **API's in different technologies**
-- 🌱 I’m currently learning **SpringBoot, FastAPI**
-- 👯 I’m looking to collaborate on **Go, Java, and NoSQL**
+- 👯 I’m looking to collaborate on **Microservices,gRPC, Go, Java, and NoSQL**
 - 🤝 I’m looking for help with **API development**
-- 💬 Ask me about **Java, Go, Node.js, Python, and APIs**
+- 💬 Ask me about **Backend**
 - 📫 How to reach me: **arjun.devb25@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
