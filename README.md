@@ -1,4 +1,4 @@
-<h1 align="center"><strong>Hi, I'm Arjun 👋 (Backend Developer)</strong></h1>
+<h1 align="center"><strong>Hi, I'm Arjun Singh👋 (Backend Developer)</strong></h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=arjunsingh757&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
