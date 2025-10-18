@@ -7,7 +7,6 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔭 Currently working on **Scalable APIs & Microservices**  
 - 👯 Open to collaborate on **Golang, Java, gRPC, and Cloud-Native projects**  
 - 🤝 Looking for support with **distributed systems & API design**  
 - 💬 Ask me about **Backend Development, Go, Java, and System Design**  
